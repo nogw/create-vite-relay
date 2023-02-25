@@ -4,7 +4,7 @@ import { Outlet } from 'react-router-dom';
 const Root = () => {
   return (
     <main>
-      <h1>Create-vite-relay</h1>
+      <h1>create-vite-relay</h1>
       <Suspense fallback={<h1>Loading...</h1>}>
         <Outlet />
       </Suspense>

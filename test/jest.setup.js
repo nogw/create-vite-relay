@@ -1,6 +1,6 @@
 require('@testing-library/jest-dom');
 
-jest.mock('../src/relay/RelayEnvironment.ts', () => {
+jest.mock('../src/relay/RelayEnvironment', () => {
   const { createMockEnvironment } = require('relay-test-utils');
   return createMockEnvironment();
 });
