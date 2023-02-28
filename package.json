@@ -46,7 +46,7 @@
     "@types/react-router-dom": "^5.3.3",
     "@types/relay-runtime": "^14.1.8",
     "@typescript-eslint/eslint-plugin": "^5.53.0",
-    "@typescript-eslint/parser": "^5.53.0",
+    "@typescript-eslint/parser": "^5.54.0",
     "@vitejs/plugin-react": "^3.1.0",
     "babel-plugin-relay": "^14.1.0",
     "eslint": "^8.34.0",
