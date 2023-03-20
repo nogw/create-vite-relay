@@ -16,7 +16,7 @@
     "dotenv-safe": "^8.2.0",
     "i18next": "^22.4.12",
     "i18next-browser-languagedetector": "^7.0.1",
-    "jest-environment-jsdom": "^29.4.3",
+    "jest-environment-jsdom": "^29.5.0",
     "jest-junit": "^15.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
